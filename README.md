@@ -1,4 +1,4 @@
-# Clone_Netflix
+# 🍿Clone_Netflix
 
 ![Preview-Screens](https://github.com/Ana204/Clone_Netflix/blob/master/NetflixImg.png)
 
